@@ -20,6 +20,6 @@ JAVA
 Android Studio
 
 ● Image
-<img src="https://github.com/HJNA-99/JAVA_Medicinal-Herbs-recommendations-based-on-symptoms-App-/blob/main/Main%20page.png>
-<img src="https://github.com/HJNA-99/JAVA_Medicinal-Herbs-recommendations-based-on-symptoms-App-/blob/main/Question%20page.png>
-<img src="https://github.com/HJNA-99/JAVA_Medicinal-Herbs-recommendations-based-on-symptoms-App-/blob/main/Result%20page.png>
+<img src="https://github.com/HJNA-99/JAVA_Medicinal-Herbs-recommendations-based-on-symptoms-App-/blob/main/Main%20page.png">
+<img src="https://github.com/HJNA-99/JAVA_Medicinal-Herbs-recommendations-based-on-symptoms-App-/blob/main/Question%20page.png">
+<img src="https://github.com/HJNA-99/JAVA_Medicinal-Herbs-recommendations-based-on-symptoms-App-/blob/main/Result%20page.png">
